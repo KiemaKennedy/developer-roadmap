@@ -13,3 +13,5 @@ So even though you may not have to implement your own asynchronous functions ver
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing'>Introducing asynchronous JavaScript
 </BadgeLink>
+<BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.w3schools.com/js/js_asynchronous.asp'>Asynchronous JavaScript
+</BadgeLink>
